@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eng" format="1">
+  <advance width="782"/>
+  <unicode hex="014A"/>
+  <outline>
+    <contour>
+      <point x="634" y="224" type="line"/>
+      <point x="156" y="680" type="line"/>
+      <point x="90" y="680" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="277" y="329" type="line"/>
+      <point x="571" y="51" type="line"/>
+    </contour>
+    <component base="J" xOffset="398"/>
+    <contour>
+      <point x="396" y="670" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="396" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

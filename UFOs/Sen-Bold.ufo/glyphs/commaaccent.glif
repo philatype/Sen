@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccent" format="1">
+  <advance width="285"/>
+  <unicode hex="0326"/>
+  <outline>
+    <contour>
+      <point x="115" y="-101" type="line"/>
+      <point x="130" y="-101"/>
+      <point x="142" y="-108"/>
+      <point x="142" y="-120" type="curve" smooth="yes"/>
+      <point x="142" y="-132"/>
+      <point x="131" y="-138"/>
+      <point x="116" y="-138" type="curve" smooth="yes"/>
+      <point x="100" y="-138"/>
+      <point x="85" y="-134"/>
+      <point x="69" y="-123" type="curve"/>
+      <point x="69" y="-207" type="line"/>
+      <point x="82" y="-216"/>
+      <point x="100" y="-225"/>
+      <point x="122" y="-225" type="curve" smooth="yes"/>
+      <point x="175" y="-225"/>
+      <point x="225" y="-190"/>
+      <point x="225" y="-119" type="curve" smooth="yes"/>
+      <point x="225" y="-54"/>
+      <point x="172" y="-22"/>
+      <point x="115" y="-22" type="curve"/>
+    </contour>
+    <contour>
+      <point x="152" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+</glyph>

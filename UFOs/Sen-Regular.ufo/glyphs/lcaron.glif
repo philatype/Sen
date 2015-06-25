@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="1">
+  <advance width="372"/>
+  <unicode hex="013E"/>
+  <outline>
+    <contour>
+      <point x="255" y="530" type="line"/>
+      <point x="322" y="530" type="line"/>
+      <point x="352" y="718" type="line"/>
+      <point x="265" y="718" type="line"/>
+    </contour>
+    <component base="l"/>
+  </outline>
+</glyph>

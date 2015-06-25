@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae" format="1">
+  <advance width="987"/>
+  <unicode hex="00E6"/>
+  <outline>
+    <component base="e" xOffset="416"/>
+    <component base="a"/>
+    <contour>
+      <point x="536" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="307" y="500" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

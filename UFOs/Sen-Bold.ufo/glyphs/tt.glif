@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tt" format="1">
+  <advance width="876"/>
+  <outline>
+    <contour>
+      <point x="599" y="660" type="line"/>
+      <point x="569" y="553"/>
+      <point x="538" y="510"/>
+      <point x="443" y="510" type="curve" smooth="yes"/>
+      <point x="382" y="510" type="line"/>
+      <point x="382" y="375" type="line"/>
+      <point x="519" y="375" type="line"/>
+      <point x="519" y="169" type="line" smooth="yes"/>
+      <point x="519" y="53"/>
+      <point x="601" y="-15"/>
+      <point x="696" y="-15" type="curve" smooth="yes"/>
+      <point x="762" y="-15"/>
+      <point x="809" y="11"/>
+      <point x="831" y="40" type="curve"/>
+      <point x="831" y="174" type="line"/>
+      <point x="806" y="159"/>
+      <point x="782" y="152"/>
+      <point x="750" y="152" type="curve" smooth="yes"/>
+      <point x="713" y="152"/>
+      <point x="691" y="183"/>
+      <point x="691" y="232" type="curve" smooth="yes"/>
+      <point x="691" y="375" type="line"/>
+      <point x="825" y="375" type="line"/>
+      <point x="825" y="510" type="line"/>
+      <point x="691" y="510" type="line"/>
+      <point x="691" y="660" type="line"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+</glyph>

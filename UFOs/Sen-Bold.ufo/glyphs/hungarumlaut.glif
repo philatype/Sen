@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="1">
+  <advance width="548"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <component base="acute" xOffset="194"/>
+    <component base="acute" xOffset="-10"/>
+    <contour>
+      <point x="259" y="510" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>
