@@ -22,4 +22,16 @@
       <point x="379" y="500" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==v</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==v</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=v</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=v</string>
+    </dict>
+  </lib>
 </glyph>

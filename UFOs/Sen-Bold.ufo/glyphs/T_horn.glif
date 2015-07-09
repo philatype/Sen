@@ -34,4 +34,12 @@
       <point x="373" y="411" type="line" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=L</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=P</string>
+    </dict>
+  </lib>
 </glyph>

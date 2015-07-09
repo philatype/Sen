@@ -11,4 +11,12 @@
     </contour>
     <component base="c"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=c</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=c</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iacute" format="1">
-  <advance width="304"/>
+  <advance width="375"/>
   <unicode hex="00ED"/>
   <outline>
-    <component base="idotless" xOffset="-5"/>
-    <component base="acute" xOffset="10"/>
+    <component base="idotless"/>
+    <component base="acute" xOffset="29"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=i</string>
+    </dict>
+  </lib>
 </glyph>

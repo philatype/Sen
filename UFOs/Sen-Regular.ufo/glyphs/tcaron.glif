@@ -11,4 +11,16 @@
     </contour>
     <component base="t"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==t</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==t</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=t</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=t</string>
+    </dict>
+  </lib>
 </glyph>

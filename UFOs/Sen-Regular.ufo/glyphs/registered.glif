@@ -33,4 +33,16 @@
     </contour>
     <component base="R" xOffset="253" yOffset="136" xScale="0.593" yScale="0.593"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==O</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==O</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=O</string>
+    </dict>
+  </lib>
 </glyph>

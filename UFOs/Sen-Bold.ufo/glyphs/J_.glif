@@ -16,4 +16,12 @@
       <point x="304" y="672" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==|L-10</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=I</string>
+    </dict>
+  </lib>
 </glyph>

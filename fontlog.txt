@@ -12,7 +12,14 @@ scripts.
 ChangeLog
 
 16 Jun 2015 (Kosal Sen, Philatype) v1.0
-- Released
+v1.000- Released
 
-25 Jun 2015 (Kosal Sen, Philatype) v1.001
+
+
+25 Jun 2015 (Kosal Sen, Philatype) 
+v1.001
 - Fixed stem weights for improved rendering in Windows.
+
+
+08 Jul 2015 (Kosal Sen, Philatype) 
+v1.002- Fixed Polish quotation marks, exclamdown, and anchor incompatibility in masters.

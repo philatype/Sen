@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eng" format="1">
-  <advance width="756"/>
+  <advance width="761"/>
   <unicode hex="014A"/>
   <outline>
     <contour>
@@ -12,7 +12,7 @@
       <point x="207" y="469" type="line"/>
       <point x="613" y="35" type="line"/>
     </contour>
-    <component base="J" xOffset="406"/>
+    <component base="J" xOffset="446"/>
     <contour>
       <point x="396" y="670" type="move" name="top"/>
     </contour>
@@ -20,4 +20,23 @@
       <point x="396" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=N</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=J</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>J</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

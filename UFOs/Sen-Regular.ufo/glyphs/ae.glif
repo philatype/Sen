@@ -12,4 +12,27 @@
       <point x="307" y="500" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==a</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==e</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=a</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=e</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

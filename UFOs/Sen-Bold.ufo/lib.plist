@@ -53,11 +53,11 @@
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>2D992F1A-8218-4049-8E15-5955C72037C9</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
-	<true/>
+	<integer>1</integer>
 	<key>com.schriftgestaltung.weight</key>
 	<string>Bold</string>
 	<key>com.schriftgestaltung.weightValue</key>
-	<real>900</real>
+	<integer>900</integer>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -201,6 +201,7 @@
 		<string>gcommaaccent</string>
 		<string>h</string>
 		<string>i</string>
+		<string>idotless</string>
 		<string>iacute</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
@@ -352,6 +353,7 @@
 		<string>asciicircum</string>
 		<string>dagger</string>
 		<string>daggerdbl</string>
+		<string>commaaccent</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
@@ -365,8 +367,6 @@
 		<string>ogonek</string>
 		<string>ring</string>
 		<string>tilde</string>
-		<string>commaaccent</string>
-		<string>idotless</string>
 		<string>tt</string>
 	</array>
 </dict>

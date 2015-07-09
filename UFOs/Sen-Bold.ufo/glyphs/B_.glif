@@ -45,4 +45,14 @@
       <point x="372" y="505" type="line" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==L</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=I</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=O</string>
+    </dict>
+  </lib>
 </glyph>

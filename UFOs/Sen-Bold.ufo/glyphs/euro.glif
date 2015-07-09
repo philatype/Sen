@@ -44,4 +44,12 @@
       <point x="490" y="315" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=C</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=C</string>
+    </dict>
+  </lib>
 </glyph>

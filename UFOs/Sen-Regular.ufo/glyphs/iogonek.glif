@@ -6,4 +6,16 @@
     <component base="ogonek" xOffset="-158"/>
     <component base="i" xOffset="-17"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==i-30</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==i</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=i</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=i</string>
+    </dict>
+  </lib>
 </glyph>

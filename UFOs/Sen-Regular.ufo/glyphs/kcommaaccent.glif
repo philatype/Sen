@@ -6,4 +6,14 @@
     <component base="k"/>
     <component base="commaaccent" xOffset="126"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==k</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=k</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=k</string>
+    </dict>
+  </lib>
 </glyph>

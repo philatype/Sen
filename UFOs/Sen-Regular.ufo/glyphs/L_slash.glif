@@ -11,4 +11,12 @@
     </contour>
     <component base="L"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==L</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=auto</string>
+    </dict>
+  </lib>
 </glyph>

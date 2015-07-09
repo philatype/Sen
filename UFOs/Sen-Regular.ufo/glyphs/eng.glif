@@ -17,4 +17,12 @@
     </contour>
     <component base="n"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=j</string>
+    </dict>
+  </lib>
 </glyph>

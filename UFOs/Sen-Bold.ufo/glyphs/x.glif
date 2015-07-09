@@ -18,4 +18,16 @@
       <point x="617" y="510" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==v</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==v</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=v</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=v</string>
+    </dict>
+  </lib>
 </glyph>

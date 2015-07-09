@@ -19,4 +19,12 @@
       <point x="349" y="670" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|L</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=L</string>
+    </dict>
+  </lib>
 </glyph>

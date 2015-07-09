@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iogonek" format="1">
-  <advance width="365"/>
+  <advance width="382"/>
   <unicode hex="012F"/>
   <outline>
     <component base="ogonek" xOffset="-118"/>
     <component base="i" xOffset="11"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==i-30</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=i</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=i</string>
+    </dict>
+  </lib>
 </glyph>

@@ -40,4 +40,16 @@
       <point x="408" y="500" type="move" name="topright"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==n-40</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==n-10</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=l</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=l</string>
+    </dict>
+  </lib>
 </glyph>

@@ -21,4 +21,12 @@
       <point x="553" y="-210" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|P</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|L</string>
+    </dict>
+  </lib>
 </glyph>

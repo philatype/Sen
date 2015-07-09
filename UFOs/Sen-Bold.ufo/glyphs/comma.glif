@@ -10,4 +10,14 @@
       <point x="106" y="112" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==period-20</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=period</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=period</string>
+    </dict>
+  </lib>
 </glyph>

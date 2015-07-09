@@ -37,4 +37,16 @@
       <point x="409" y="378" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==L-20</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==f</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=L</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=f</string>
+    </dict>
+  </lib>
 </glyph>

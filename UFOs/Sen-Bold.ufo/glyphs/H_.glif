@@ -22,4 +22,14 @@
       <point x="545" y="405" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==L</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=L</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|L</string>
+    </dict>
+  </lib>
 </glyph>

@@ -19,4 +19,12 @@
       <point x="794" y="680" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=L</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|L</string>
+    </dict>
+  </lib>
 </glyph>

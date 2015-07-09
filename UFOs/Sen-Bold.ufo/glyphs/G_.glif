@@ -43,5 +43,21 @@
       <point x="660" y="346" type="line"/>
       <point x="500" y="346" type="line"/>
     </contour>
+    <contour>
+      <point x="363" y="670" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="423" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==|L-25</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|L</string>
+    </dict>
+  </lib>
 </glyph>

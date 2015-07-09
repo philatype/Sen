@@ -17,4 +17,14 @@
     </contour>
     <component base="Y"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==Y</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>+Y</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=Y</string>
+    </dict>
+  </lib>
 </glyph>

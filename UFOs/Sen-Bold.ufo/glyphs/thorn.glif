@@ -38,4 +38,12 @@
       <point x="343" y="351" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=b</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=b</string>
+    </dict>
+  </lib>
 </glyph>

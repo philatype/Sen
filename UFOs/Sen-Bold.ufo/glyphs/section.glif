@@ -76,4 +76,12 @@
       <point x="295" y="160" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=S</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=S</string>
+    </dict>
+  </lib>
 </glyph>

@@ -36,4 +36,16 @@
       <point x="367" y="670" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==L</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==O</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=l</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=O</string>
+    </dict>
+  </lib>
 </glyph>

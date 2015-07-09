@@ -20,4 +20,16 @@
       <point x="396" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==N</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==J</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=N</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=J</string>
+    </dict>
+  </lib>
 </glyph>

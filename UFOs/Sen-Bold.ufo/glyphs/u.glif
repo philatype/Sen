@@ -27,10 +27,15 @@
       <point x="411" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="337" y="10" type="move" name="bottom"/>
-    </contour>
-    <contour>
       <point x="317" y="510" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=n</string>
+    </dict>
+  </lib>
 </glyph>
