@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="1">
-  <advance width="698"/>
+  <advance width="699"/>
   <unicode hex="0052"/>
   <outline>
     <contour>
@@ -31,8 +31,8 @@
     </contour>
     <contour>
       <point x="265" y="284" type="line"/>
-      <point x="460" y="0" type="line"/>
-      <point x="688" y="0" type="line"/>
+      <point x="456" y="0" type="line"/>
+      <point x="684" y="0" type="line"/>
       <point x="433" y="333" type="line"/>
     </contour>
     <contour>
@@ -47,7 +47,7 @@
       <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
       <string>==L</string>
       <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==V</string>
+      <string>==V+5</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=I</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

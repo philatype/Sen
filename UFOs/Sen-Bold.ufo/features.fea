@@ -2,13 +2,31 @@
 # automatic
 languagesystem DFLT dflt;
 languagesystem latn dflt;
+languagesystem latn CAT;
 
 # automatic
-@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z ];
+@Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gcommaaccent H I IJ Iacute Icircumflex Idieresis Igrave Imacron Iogonek J K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla T Tbar Tcaron Tcedilla U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent ];
 
 feature liga {
 sub t t by tt;
+sub k o s a l by whiteSmilingFace;
+sub t a n t a n by whiteSmilingFace;
+sub s t a r l e e by whiteSmilingFace;
+sub colon D by whiteSmilingFace;
 } liga;
+
+feature aalt {
+# automatic
+feature locl;
+} aalt;
+
+feature locl {
+# automatic
+script latn;
+language CAT;
+sub  l' periodcentered' l by ldot;
+sub  L' periodcentered' L by Ldot;
+} locl;
 
 feature cpsp {
 # automatic

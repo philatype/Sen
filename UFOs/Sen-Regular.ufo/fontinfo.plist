@@ -13,7 +13,7 @@
 	<key>familyName</key>
 	<string>Sen</string>
 	<key>openTypeHeadCreated</key>
-	<string>2015/07/08 23:36:35</string>
+	<string>2015/07/14 21:59:56</string>
 	<key>openTypeNameDesigner</key>
 	<string>Kosal Sen, Philatype</string>
 	<key>openTypeNameDesignerURL</key>
@@ -66,7 +66,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>2</integer>
+	<integer>3</integer>
 	<key>xHeight</key>
 	<integer>500</integer>
 </dict>
