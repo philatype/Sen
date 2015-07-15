@@ -10,6 +10,12 @@ Sen is a Unicode typeface family that supports all languages that
 use the Latin script and its variants, and could be expanded to support other
 scripts.
 
+Designer
+Sen was designed by Kosal Sen, Philatype.
+Google Plus: https://plus.google.com/u/0/113858272172038112550/posts
+E-mail: holla@philatype.com
+Twitter: @philatype
+
 ChangeLog
 
 16 Jun 2015 (Kosal Sen, Philatype) v1.0
