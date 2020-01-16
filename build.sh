@@ -6,7 +6,7 @@ fontmake -g ./Glyphs/sen.glyphs -o ttf -i --output-dir $TTFDIR -a
 for f in $TTFDIR/*.ttf
 do
 	gftools fix-dsig --autofix $f
-	gftools fix-hinting $f $f.fix
+	gftools fix-hinting $f
 	mv $f.fix $f
 done
 
