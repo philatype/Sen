@@ -1,5 +1,5 @@
 {
-.appVersion = "1271";
+.appVersion = "1285";
 classes = (
 {
 automatic = 1;
@@ -33,6 +33,15 @@ value = 1;
 {
 name = "Use Line Breaks";
 value = 1;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
 }
 );
 date = "2020-01-16 12:32:29 +0000";
