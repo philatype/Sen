@@ -35,7 +35,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2015-07-15 01:59:56 +0000";
+date = "2020-01-16 12:32:29 +0000";
 designer = "Kosal Sen, Philatype";
 designerURL = "http://www.philatype.com";
 familyName = Sen;
@@ -24921,5 +24921,5 @@ oV = 85;
 };
 };
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
