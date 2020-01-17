@@ -36,3 +36,6 @@ v1.002 - Fixed Polish quotation marks, exclamdown, and anchor incompatibility in
 
 14 Jul 2015 (Kosal Sen, Philatype) 
 v1.003 - Improved construction of e, g, c, G, Z, k, R, and a few other characters.
+
+17 Jan 2020
+v1.004 - Updated to follow Google Fonts technical specifications
