@@ -16,7 +16,7 @@ Designer Information
 
 Sen was designed by Kosal Sen, Philatype.
 
-Google Plus: https://plus.google.com/u/0/113858272172038112550/posts
+Website: https://philatype.com
 
 E-mail: holla@philatype.com
 
