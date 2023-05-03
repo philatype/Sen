@@ -4,6 +4,7 @@
   <unicode hex="0077"/>
   <outline>
     <contour>
+      <point x="741" y="500" type="line"/>
       <point x="643" y="500" type="line"/>
       <point x="532" y="149" type="line"/>
       <point x="401" y="500" type="line"/>
@@ -16,7 +17,6 @@
       <point x="378" y="353" type="line"/>
       <point x="515" y="0" type="line"/>
       <point x="566" y="0" type="line"/>
-      <point x="741" y="500" type="line"/>
     </contour>
     <contour>
       <point x="379" y="500" type="move" name="top"/>
@@ -32,6 +32,8 @@
       <string>=v</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=v</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

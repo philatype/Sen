@@ -4,20 +4,20 @@
   <unicode hex="014A"/>
   <outline>
     <contour>
+      <point x="571" y="51" type="line"/>
       <point x="634" y="224" type="line"/>
       <point x="156" y="680" type="line"/>
       <point x="90" y="680" type="line"/>
       <point x="90" y="0" type="line"/>
       <point x="277" y="0" type="line"/>
       <point x="277" y="329" type="line"/>
-      <point x="571" y="51" type="line"/>
     </contour>
     <component base="J" xOffset="398"/>
     <contour>
-      <point x="396" y="670" type="move" name="top"/>
+      <point x="396" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="396" y="0" type="move" name="bottom"/>
+      <point x="396" y="670" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -30,6 +30,8 @@
       <string>=N</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=J</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

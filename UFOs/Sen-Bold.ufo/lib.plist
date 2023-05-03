@@ -2,45 +2,74 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>GSDimensionPlugin.Dimensions</key>
-	<dict>
-		<key>2D992F1A-8218-4049-8E15-5955C72037C9</key>
+	<key>com.schriftgestaltung.DisplayStrings</key>
+	<array>
+	</array>
+	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
+	<false/>
+	<key>com.schriftgestaltung.disablesLastChange</key>
+	<true/>
+	<key>com.schriftgestaltung.font.Axes</key>
+	<array>
 		<dict>
-			<key>HH</key>
-			<integer>165</integer>
-			<key>HV</key>
-			<integer>187</integer>
-			<key>OH</key>
-			<integer>175</integer>
-			<key>OV</key>
-			<integer>192</integer>
-			<key>nV</key>
-			<integer>172</integer>
-			<key>nd</key>
-			<integer>168</integer>
-			<key>oH</key>
-			<integer>165</integer>
-			<key>oV</key>
-			<integer>185</integer>
+			<key>Name</key>
+			<string>Weight</string>
+			<key>Tag</key>
+			<string>wght</string>
 		</dict>
-		<key>DEFEBCF2-9FF2-4B76-ADC8-AB6BD79F23E7</key>
+	</array>
+	<key>com.schriftgestaltung.font.Disable Subroutines</key>
+	<false/>
+	<key>com.schriftgestaltung.font.Use Line Breaks</key>
+	<true/>
+	<key>com.schriftgestaltung.font.Use Typo Metrics</key>
+	<true/>
+	<key>com.schriftgestaltung.font.license</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>com.schriftgestaltung.font.licenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>com.schriftgestaltung.font.userData</key>
+	<dict>
+		<key>GSDimensionPlugin.Dimensions</key>
 		<dict>
-			<key>HH</key>
-			<integer>85</integer>
-			<key>HV</key>
-			<integer>90</integer>
-			<key>OH</key>
-			<integer>88</integer>
-			<key>OV</key>
-			<integer>92</integer>
-			<key>nV</key>
-			<integer>82</integer>
-			<key>nd</key>
-			<integer>80</integer>
-			<key>oH</key>
-			<integer>80</integer>
-			<key>oV</key>
-			<integer>85</integer>
+			<key>2D992F1A-8218-4049-8E15-5955C72037C9</key>
+			<dict>
+				<key>HH</key>
+				<integer>165</integer>
+				<key>HV</key>
+				<integer>187</integer>
+				<key>OH</key>
+				<integer>175</integer>
+				<key>OV</key>
+				<integer>192</integer>
+				<key>nV</key>
+				<integer>172</integer>
+				<key>nd</key>
+				<integer>168</integer>
+				<key>oH</key>
+				<integer>165</integer>
+				<key>oV</key>
+				<integer>185</integer>
+			</dict>
+			<key>DEFEBCF2-9FF2-4B76-ADC8-AB6BD79F23E7</key>
+			<dict>
+				<key>HH</key>
+				<integer>85</integer>
+				<key>HV</key>
+				<integer>90</integer>
+				<key>OH</key>
+				<integer>88</integer>
+				<key>OV</key>
+				<integer>92</integer>
+				<key>nV</key>
+				<integer>82</integer>
+				<key>nd</key>
+				<integer>80</integer>
+				<key>oH</key>
+				<integer>80</integer>
+				<key>oV</key>
+				<integer>85</integer>
+			</dict>
 		</dict>
 	</dict>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
@@ -52,10 +81,12 @@
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>2D992F1A-8218-4049-8E15-5955C72037C9</string>
-	<key>com.schriftgestaltung.useNiceNames</key>
-	<integer>1</integer>
-	<key>com.schriftgestaltung.weight</key>
+	<key>com.schriftgestaltung.glyphOrder</key>
+	<false/>
+	<key>com.schriftgestaltung.master.name</key>
 	<string>Bold</string>
+	<key>com.schriftgestaltung.useNiceNames</key>
+	<true/>
 	<key>com.schriftgestaltung.weightValue</key>
 	<integer>900</integer>
 	<key>public.glyphOrder</key>
@@ -91,7 +122,7 @@
 		<string>Eogonek</string>
 		<string>F</string>
 		<string>G</string>
-		<string>Gcommaaccent</string>
+		<string>uni0122</string>
 		<string>H</string>
 		<string>I</string>
 		<string>IJ</string>
@@ -103,18 +134,18 @@
 		<string>Iogonek</string>
 		<string>J</string>
 		<string>K</string>
-		<string>Kcommaaccent</string>
+		<string>uni0136</string>
 		<string>L</string>
 		<string>Lacute</string>
 		<string>Lcaron</string>
-		<string>Lcommaaccent</string>
+		<string>uni013B</string>
 		<string>Ldot</string>
 		<string>Lslash</string>
 		<string>M</string>
 		<string>N</string>
 		<string>Nacute</string>
 		<string>Ncaron</string>
-		<string>Ncommaaccent</string>
+		<string>uni0145</string>
 		<string>Eng</string>
 		<string>Ntilde</string>
 		<string>O</string>
@@ -133,7 +164,7 @@
 		<string>R</string>
 		<string>Racute</string>
 		<string>Rcaron</string>
-		<string>Rcommaaccent</string>
+		<string>uni0156</string>
 		<string>S</string>
 		<string>Sacute</string>
 		<string>Scaron</string>
@@ -141,7 +172,7 @@
 		<string>T</string>
 		<string>Tbar</string>
 		<string>Tcaron</string>
-		<string>Tcedilla</string>
+		<string>uni0162</string>
 		<string>U</string>
 		<string>Uacute</string>
 		<string>Ucircumflex</string>
@@ -198,10 +229,10 @@
 		<string>eogonek</string>
 		<string>f</string>
 		<string>g</string>
-		<string>gcommaaccent</string>
+		<string>uni0123</string>
 		<string>h</string>
 		<string>i</string>
-		<string>idotless</string>
+		<string>dotlessi</string>
 		<string>iacute</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
@@ -211,18 +242,18 @@
 		<string>iogonek</string>
 		<string>j</string>
 		<string>k</string>
-		<string>kcommaaccent</string>
+		<string>uni0137</string>
 		<string>l</string>
 		<string>lacute</string>
 		<string>lcaron</string>
-		<string>lcommaaccent</string>
+		<string>uni013C</string>
 		<string>ldot</string>
 		<string>lslash</string>
 		<string>m</string>
 		<string>n</string>
 		<string>nacute</string>
 		<string>ncaron</string>
-		<string>ncommaaccent</string>
+		<string>uni0146</string>
 		<string>eng</string>
 		<string>ntilde</string>
 		<string>o</string>
@@ -241,7 +272,7 @@
 		<string>r</string>
 		<string>racute</string>
 		<string>rcaron</string>
-		<string>rcommaaccent</string>
+		<string>uni0157</string>
 		<string>s</string>
 		<string>sacute</string>
 		<string>scaron</string>
@@ -250,7 +281,7 @@
 		<string>t</string>
 		<string>tbar</string>
 		<string>tcaron</string>
-		<string>tcedilla</string>
+		<string>uni0163</string>
 		<string>u</string>
 		<string>uacute</string>
 		<string>ucircumflex</string>
@@ -276,6 +307,8 @@
 		<string>zacute</string>
 		<string>zcaron</string>
 		<string>zdotaccent</string>
+		<string>ordfeminine</string>
+		<string>ordmasculine</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -286,88 +319,107 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
-		<string>asterisk</string>
-		<string>backslash</string>
-		<string>periodcentered</string>
-		<string>bullet</string>
-		<string>colon</string>
+		<string>uni00B9</string>
+		<string>uni00B2</string>
+		<string>uni00B3</string>
+		<string>uni2074</string>
+		<string>fraction</string>
+		<string>onehalf</string>
+		<string>onequarter</string>
+		<string>threequarters</string>
+		<string>period</string>
 		<string>comma</string>
+		<string>colon</string>
+		<string>semicolon</string>
 		<string>ellipsis</string>
 		<string>exclam</string>
 		<string>exclamdown</string>
-		<string>numbersign</string>
-		<string>period</string>
 		<string>question</string>
 		<string>questiondown</string>
-		<string>quotedbl</string>
-		<string>quotesingle</string>
-		<string>semicolon</string>
+		<string>periodcentered</string>
+		<string>bullet</string>
+		<string>asterisk</string>
+		<string>numbersign</string>
 		<string>slash</string>
-		<string>underscore</string>
+		<string>backslash</string>
+		<string>parenleft</string>
+		<string>parenright</string>
 		<string>braceleft</string>
 		<string>braceright</string>
 		<string>bracketleft</string>
 		<string>bracketright</string>
-		<string>parenleft</string>
-		<string>parenright</string>
-		<string>emdash</string>
-		<string>endash</string>
 		<string>hyphen</string>
+		<string>uni00AD</string>
+		<string>endash</string>
+		<string>emdash</string>
+		<string>underscore</string>
+		<string>quotesinglbase</string>
 		<string>quotedblbase</string>
 		<string>quotedblleft</string>
 		<string>quotedblright</string>
 		<string>quoteleft</string>
 		<string>quoteright</string>
-		<string>quotesinglbase</string>
+		<string>guillemotleft</string>
+		<string>guillemotright</string>
+		<string>guilsinglleft</string>
+		<string>guilsinglright</string>
+		<string>quotedbl</string>
+		<string>quotesingle</string>
 		<string>space</string>
+		<string>uni00A0</string>
+		<string>CR</string>
 		<string>cent</string>
 		<string>currency</string>
 		<string>dollar</string>
-		<string>euro</string>
+		<string>Euro</string>
 		<string>sterling</string>
 		<string>yen</string>
-		<string>approxequal</string>
-		<string>asciitilde</string>
-		<string>divide</string>
-		<string>equal</string>
-		<string>greater</string>
-		<string>greaterequal</string>
-		<string>less</string>
-		<string>lessequal</string>
+		<string>uni2215</string>
+		<string>plus</string>
 		<string>minus</string>
 		<string>multiply</string>
+		<string>divide</string>
+		<string>equal</string>
 		<string>notequal</string>
-		<string>percent</string>
-		<string>plus</string>
+		<string>greater</string>
+		<string>less</string>
+		<string>greaterequal</string>
+		<string>lessequal</string>
 		<string>plusminus</string>
-		<string>whiteSmilingFace</string>
-		<string>bar</string>
-		<string>brokenbar</string>
+		<string>approxequal</string>
+		<string>asciitilde</string>
+		<string>logicalnot</string>
+		<string>asciicircum</string>
+		<string>uni00B5</string>
+		<string>percent</string>
+		<string>smileface</string>
 		<string>at</string>
 		<string>ampersand</string>
 		<string>paragraph</string>
+		<string>section</string>
 		<string>copyright</string>
 		<string>registered</string>
-		<string>section</string>
 		<string>trademark</string>
 		<string>degree</string>
-		<string>asciicircum</string>
+		<string>bar</string>
+		<string>brokenbar</string>
 		<string>dagger</string>
 		<string>daggerdbl</string>
-		<string>commaaccent</string>
-		<string>acute</string>
-		<string>breve</string>
-		<string>caron</string>
-		<string>cedilla</string>
-		<string>circumflex</string>
+		<string>uni0326</string>
 		<string>dieresis</string>
 		<string>dotaccent</string>
 		<string>grave</string>
+		<string>acute</string>
 		<string>hungarumlaut</string>
-		<string>macron</string>
-		<string>ogonek</string>
+		<string>circumflex</string>
+		<string>caron</string>
+		<string>breve</string>
 		<string>ring</string>
 		<string>tilde</string>
+		<string>macron</string>
+		<string>cedilla</string>
+		<string>ogonek</string>
+		<string>NULL</string>
 		<string>tt</string>
 	</array>
 </dict>

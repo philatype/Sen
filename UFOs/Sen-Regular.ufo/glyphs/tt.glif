@@ -3,6 +3,7 @@
   <advance width="786"/>
   <outline>
     <contour>
+      <point x="576" y="634" type="line"/>
       <point x="558" y="634" type="line"/>
       <point x="525" y="545"/>
       <point x="485" y="500"/>
@@ -28,7 +29,6 @@
       <point x="722" y="423" type="line"/>
       <point x="722" y="500" type="line"/>
       <point x="576" y="500" type="line"/>
-      <point x="576" y="634" type="line"/>
     </contour>
     <component base="t"/>
   </outline>
@@ -42,6 +42,8 @@
       <string>=t</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=t</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

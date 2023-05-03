@@ -6,4 +6,10 @@
     <component base="D"/>
     <component base="hyphen" xOffset="-48" yOffset="85"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -5,7 +5,9 @@
 	<key>A</key>
 	<dict>
 		<key>C</key>
-		<integer>-30</integer>
+		<integer>-50</integer>
+		<key>F</key>
+		<integer>0</integer>
 		<key>G</key>
 		<integer>-30</integer>
 		<key>O</key>
@@ -15,7 +17,7 @@
 		<key>U</key>
 		<integer>-40</integer>
 		<key>V</key>
-		<integer>-130</integer>
+		<integer>-110</integer>
 		<key>W</key>
 		<integer>-100</integer>
 		<key>Y</key>
@@ -37,6 +39,11 @@
 		<key>A</key>
 		<integer>-70</integer>
 	</dict>
+	<key>F</key>
+	<dict>
+		<key>A</key>
+		<integer>-70</integer>
+	</dict>
 	<key>H</key>
 	<dict>
 		<key>Y</key>
@@ -46,8 +53,16 @@
 	<dict>
 		<key>Y</key>
 		<integer>-30</integer>
-		<key>o</key>
+		<key>a</key>
+		<integer>-40</integer>
+		<key>e</key>
+		<integer>-40</integer>
+		<key>i</key>
 		<integer>-20</integer>
+		<key>o</key>
+		<integer>-50</integer>
+		<key>u</key>
+		<integer>-30</integer>
 	</dict>
 	<key>L</key>
 	<dict>
@@ -55,7 +70,13 @@
 		<integer>-40</integer>
 		<key>O</key>
 		<integer>-40</integer>
+		<key>T</key>
+		<integer>-100</integer>
+		<key>U</key>
+		<integer>-40</integer>
 		<key>V</key>
+		<integer>-110</integer>
+		<key>Y</key>
 		<integer>-110</integer>
 	</dict>
 	<key>N</key>
@@ -78,11 +99,18 @@
 		<key>C</key>
 		<integer>-40</integer>
 		<key>O</key>
-		<integer>-40</integer>
+		<integer>0</integer>
+		<key>U</key>
+		<integer>0</integer>
 		<key>Y</key>
 		<integer>-70</integer>
 		<key>a</key>
 		<integer>-30</integer>
+	</dict>
+	<key>S</key>
+	<dict>
+		<key>Y</key>
+		<integer>0</integer>
 	</dict>
 	<key>T</key>
 	<dict>
@@ -93,19 +121,24 @@
 		<key>o</key>
 		<integer>-80</integer>
 	</dict>
+	<key>U</key>
+	<dict>
+		<key>A</key>
+		<integer>-40</integer>
+	</dict>
 	<key>V</key>
 	<dict>
 		<key>A</key>
-		<integer>-150</integer>
+		<integer>-100</integer>
 		<key>O</key>
-		<integer>-40</integer>
+		<integer>-20</integer>
 		<key>a</key>
 		<integer>-80</integer>
 	</dict>
 	<key>W</key>
 	<dict>
 		<key>A</key>
-		<integer>-110</integer>
+		<integer>-80</integer>
 		<key>V</key>
 		<integer>0</integer>
 	</dict>
@@ -120,6 +153,8 @@
 	<dict>
 		<key>A</key>
 		<integer>-90</integer>
+		<key>C</key>
+		<integer>-40</integer>
 		<key>O</key>
 		<integer>-40</integer>
 		<key>o</key>

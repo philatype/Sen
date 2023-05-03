@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="1">
-  <advance width="384"/>
+  <advance width="374"/>
   <unicode hex="004A"/>
   <outline>
     <contour>
+      <point x="304" y="672" type="line"/>
       <point x="117" y="672" type="line"/>
       <point x="117" y="54" type="line" smooth="yes"/>
       <point x="117" y="-23"/>
@@ -13,7 +14,6 @@
       <point x="193" y="-222"/>
       <point x="304" y="-120"/>
       <point x="304" y="47" type="curve" smooth="yes"/>
-      <point x="304" y="672" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -22,6 +22,8 @@
       <string>==|L-10</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=I</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

@@ -14,6 +14,17 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
       <string>==a</string>
       <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
@@ -22,17 +33,8 @@
       <string>=a</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=e</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>disableAlignment</key>
-          <true/>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>e</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

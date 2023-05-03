@@ -4,13 +4,19 @@
   <unicode hex="0060"/>
   <outline>
     <contour>
+      <point x="19" y="720" type="line"/>
       <point x="161" y="585" type="line"/>
       <point x="243" y="585" type="line"/>
       <point x="133" y="720" type="line"/>
-      <point x="19" y="720" type="line"/>
     </contour>
     <contour>
       <point x="198" y="500" type="move" name="_top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

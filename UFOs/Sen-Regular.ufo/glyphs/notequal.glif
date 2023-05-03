@@ -4,11 +4,17 @@
   <unicode hex="2260"/>
   <outline>
     <contour>
+      <point x="424" y="510" type="line"/>
       <point x="353" y="510" type="line"/>
       <point x="114" y="82" type="line"/>
       <point x="182" y="82" type="line"/>
-      <point x="424" y="510" type="line"/>
     </contour>
     <component base="equal"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

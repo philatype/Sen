@@ -4,11 +4,17 @@
   <unicode hex="0021"/>
   <outline>
     <contour>
+      <point x="191" y="670" type="line"/>
       <point x="109" y="670" type="line"/>
       <point x="109" y="220" type="line"/>
       <point x="191" y="220" type="line"/>
-      <point x="191" y="670" type="line"/>
     </contour>
     <component base="period"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

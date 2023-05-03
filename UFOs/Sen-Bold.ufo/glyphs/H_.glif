@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="794"/>
+  <advance width="774"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="517" y="670" type="line"/>
-      <point x="517" y="0" type="line"/>
-      <point x="704" y="0" type="line"/>
-      <point x="704" y="670" type="line"/>
+      <point x="694" y="670" type="line"/>
+      <point x="507" y="670" type="line"/>
+      <point x="507" y="0" type="line"/>
+      <point x="694" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="90" y="670" type="line"/>
-      <point x="90" y="0" type="line"/>
-      <point x="277" y="0" type="line"/>
-      <point x="277" y="670" type="line"/>
+      <point x="267" y="670" type="line"/>
+      <point x="80" y="670" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="267" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="257" y="405" type="line"/>
-      <point x="257" y="240" type="line"/>
-      <point x="545" y="240" type="line"/>
-      <point x="545" y="405" type="line"/>
+      <point x="535" y="405" type="line"/>
+      <point x="247" y="405" type="line"/>
+      <point x="247" y="240" type="line"/>
+      <point x="535" y="240" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,6 +30,8 @@
       <string>=L</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=|L</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

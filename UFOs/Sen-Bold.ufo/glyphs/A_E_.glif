@@ -4,17 +4,17 @@
   <unicode hex="00C6"/>
   <outline>
     <contour>
+      <point x="574" y="670" type="line"/>
       <point x="483" y="670" type="line"/>
       <point x="10" y="0" type="line"/>
       <point x="198" y="0" type="line"/>
       <point x="552" y="508" type="line"/>
-      <point x="574" y="670" type="line"/>
     </contour>
     <contour>
+      <point x="588" y="270" type="line"/>
       <point x="267" y="270" type="line"/>
       <point x="267" y="133" type="line"/>
       <point x="588" y="133" type="line"/>
-      <point x="588" y="270" type="line"/>
     </contour>
     <component base="E" xOffset="423"/>
     <contour>
@@ -32,6 +32,8 @@
       <string>=V</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=E</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

@@ -4,10 +4,10 @@
   <unicode hex="00D8"/>
   <outline>
     <contour>
+      <point x="630" y="685" type="line"/>
       <point x="75" y="45" type="line"/>
       <point x="154" y="-15" type="line"/>
       <point x="712" y="625" type="line"/>
-      <point x="630" y="685" type="line"/>
     </contour>
     <component base="O"/>
   </outline>
@@ -21,6 +21,8 @@
       <string>=O</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=O</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

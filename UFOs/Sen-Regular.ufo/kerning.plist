@@ -7,7 +7,7 @@
 		<key>T</key>
 		<integer>-80</integer>
 		<key>V</key>
-		<integer>-90</integer>
+		<integer>-70</integer>
 		<key>W</key>
 		<integer>-40</integer>
 	</dict>
@@ -15,6 +15,11 @@
 	<dict>
 		<key>Y</key>
 		<integer>-10</integer>
+	</dict>
+	<key>F</key>
+	<dict>
+		<key>A</key>
+		<integer>-60</integer>
 	</dict>
 	<key>I</key>
 	<dict>
@@ -34,6 +39,10 @@
 	<dict>
 		<key>C</key>
 		<integer>-30</integer>
+		<key>T</key>
+		<integer>-70</integer>
+		<key>Y</key>
+		<integer>-90</integer>
 	</dict>
 	<key>O</key>
 	<dict>
@@ -48,7 +57,7 @@
 	<key>R</key>
 	<dict>
 		<key>O</key>
-		<integer>-50</integer>
+		<integer>0</integer>
 		<key>a</key>
 		<integer>-30</integer>
 		<key>e</key>
@@ -64,7 +73,7 @@
 	<key>V</key>
 	<dict>
 		<key>A</key>
-		<integer>-80</integer>
+		<integer>-60</integer>
 	</dict>
 	<key>W</key>
 	<dict>

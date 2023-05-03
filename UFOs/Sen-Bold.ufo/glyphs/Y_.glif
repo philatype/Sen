@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Y" format="1">
-  <advance width="731"/>
+  <advance width="741"/>
   <unicode hex="0059"/>
   <outline>
     <contour>
-      <point x="503" y="670" type="line"/>
-      <point x="366" y="422" type="line"/>
-      <point x="228" y="670" type="line"/>
-      <point x="10" y="670" type="line"/>
-      <point x="310" y="167" type="line"/>
-      <point x="421" y="167" type="line"/>
-      <point x="721" y="670" type="line"/>
+      <point x="726" y="670" type="line"/>
+      <point x="508" y="670" type="line"/>
+      <point x="371" y="409" type="line"/>
+      <point x="233" y="670" type="line"/>
+      <point x="15" y="670" type="line"/>
+      <point x="315" y="167" type="line"/>
+      <point x="426" y="167" type="line"/>
     </contour>
     <contour>
-      <point x="272" y="254" type="line"/>
-      <point x="272" y="0" type="line"/>
-      <point x="459" y="0" type="line"/>
-      <point x="459" y="254" type="line"/>
+      <point x="464" y="254" type="line"/>
+      <point x="277" y="254" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="464" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="366" y="670" type="move" name="top"/>
+      <point x="371" y="670" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -28,6 +28,8 @@
       <string>=V</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=V</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

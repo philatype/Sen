@@ -3,13 +3,15 @@
   <advance width="375"/>
   <unicode hex="00ED"/>
   <outline>
-    <component base="idotless"/>
+    <component base="dotlessi"/>
     <component base="acute" xOffset="29"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=i</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

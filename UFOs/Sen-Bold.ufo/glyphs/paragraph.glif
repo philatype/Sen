@@ -4,6 +4,7 @@
   <unicode hex="00B6"/>
   <outline>
     <contour>
+      <point x="570" y="-210" type="line"/>
       <point x="570" y="670" type="line"/>
       <point x="283" y="670" type="line" smooth="yes"/>
       <point x="151" y="670"/>
@@ -18,7 +19,6 @@
       <point x="428" y="544" type="line"/>
       <point x="478" y="544" type="line"/>
       <point x="478" y="-210" type="line"/>
-      <point x="570" y="-210" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,6 +31,8 @@
       <string>=|P</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=|L</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

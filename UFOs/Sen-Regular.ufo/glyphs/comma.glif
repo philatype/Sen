@@ -4,10 +4,10 @@
   <unicode hex="002C"/>
   <outline>
     <contour>
+      <point x="120" y="118" type="line"/>
       <point x="50" y="-161" type="line"/>
       <point x="112" y="-177" type="line"/>
       <point x="202" y="90" type="line"/>
-      <point x="120" y="118" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,6 +20,8 @@
       <string>=period</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=period</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

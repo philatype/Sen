@@ -1,31 +1,34 @@
+# automatic
+@Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G uni0122 H I IJ Iacute Icircumflex Idieresis Igrave Imacron Iogonek J K uni0136 L Lacute Lcaron uni013B Ldot Lslash M N Nacute Ncaron uni0145 Eng Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron uni0156 S Sacute Scaron Scedilla T Tbar Tcaron uni0162 U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent ];
+
 # Prefix: Languagesystems
 # automatic
 languagesystem DFLT dflt;
+
 languagesystem latn dflt;
 languagesystem latn CAT;
-
-# automatic
-@Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gcommaaccent H I IJ Iacute Icircumflex Idieresis Igrave Imacron Iogonek J K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla T Tbar Tcaron Tcedilla U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent ];
-
-feature liga {
-sub t t by tt;
-sub k o s a l by whiteSmilingFace;
-sub t a n t a n by whiteSmilingFace;
-sub s t a r l e e by whiteSmilingFace;
-sub colon D by whiteSmilingFace;
-} liga;
 
 feature aalt {
 # automatic
 feature locl;
 } aalt;
 
+feature liga {
+sub t t by tt;
+sub k o s a l by smileface;
+sub t a n t a n by smileface;
+sub s t a r l e e by smileface;
+sub colon D by smileface;
+} liga;
+
 feature locl {
 # automatic
-script latn;
-language CAT;
-sub  l' periodcentered' l by ldot;
-sub  L' periodcentered' L by Ldot;
+lookup locl_latn_0 {
+	script latn;
+	language CAT;
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_0;
 } locl;
 
 feature cpsp {

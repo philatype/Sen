@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="1">
-  <advance width="792"/>
+  <advance width="772"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="515" y="670" type="line"/>
-      <point x="515" y="335" type="line"/>
-      <point x="156" y="680" type="line"/>
-      <point x="90" y="680" type="line"/>
-      <point x="90" y="0" type="line"/>
-      <point x="277" y="0" type="line"/>
-      <point x="277" y="329" type="line"/>
-      <point x="636" y="-10" type="line"/>
-      <point x="702" y="-10" type="line"/>
-      <point x="702" y="670" type="line"/>
+      <point x="692" y="670" type="line"/>
+      <point x="505" y="670" type="line"/>
+      <point x="505" y="345" type="line"/>
+      <point x="146" y="680" type="line"/>
+      <point x="80" y="680" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="267" y="0" type="line"/>
+      <point x="267" y="319" type="line"/>
+      <point x="626" y="-10" type="line"/>
+      <point x="692" y="-10" type="line"/>
     </contour>
     <contour>
-      <point x="396" y="670" type="move" name="top"/>
+      <point x="386" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="396" y="0" type="move" name="bottom"/>
+      <point x="386" y="670" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -32,6 +32,8 @@
       <string>=I</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=I</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

@@ -4,7 +4,7 @@
   <unicode hex="012B"/>
   <outline>
     <component base="macron" xOffset="-55"/>
-    <component base="idotless" xOffset="67"/>
+    <component base="dotlessi" xOffset="67"/>
   </outline>
   <lib>
     <dict>
@@ -16,6 +16,8 @@
       <string>=i-20</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=i-20</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

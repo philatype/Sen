@@ -3,6 +3,12 @@
   <advance width="432"/>
   <unicode hex="201E"/>
   <outline>
-    <component base="quotedblleft" xOffset="432" yOffset="552" xScale="-1" yScale="-1"/>
+    <component base="quotedblleft" xScale="-1" yScale="-1" xOffset="432" yOffset="552"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

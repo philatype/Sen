@@ -4,6 +4,7 @@
   <unicode hex="003F"/>
   <outline>
     <contour>
+      <point x="285" y="685" type="curve" smooth="yes"/>
       <point x="188" y="685"/>
       <point x="126" y="656"/>
       <point x="80" y="616" type="curve"/>
@@ -25,8 +26,13 @@
       <point x="530" y="470" type="curve" smooth="yes"/>
       <point x="530" y="613"/>
       <point x="405" y="685"/>
-      <point x="285" y="685" type="curve" smooth="yes"/>
     </contour>
     <component base="period" xOffset="150"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

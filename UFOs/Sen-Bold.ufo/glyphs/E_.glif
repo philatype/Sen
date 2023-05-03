@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="658"/>
+  <advance width="644"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="90" y="670" type="line"/>
-      <point x="90" y="0" type="line"/>
-      <point x="578" y="0" type="line"/>
-      <point x="578" y="160" type="line"/>
-      <point x="277" y="160" type="line"/>
-      <point x="277" y="515" type="line"/>
-      <point x="578" y="515" type="line"/>
-      <point x="578" y="670" type="line"/>
+      <point x="574" y="670" type="line"/>
+      <point x="80" y="670" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="574" y="0" type="line"/>
+      <point x="574" y="160" type="line"/>
+      <point x="267" y="160" type="line"/>
+      <point x="267" y="515" type="line"/>
+      <point x="574" y="515" type="line"/>
     </contour>
     <contour>
-      <point x="197" y="409" type="line"/>
-      <point x="197" y="269" type="line"/>
-      <point x="543" y="269" type="line"/>
-      <point x="543" y="409" type="line"/>
+      <point x="540" y="414" type="line"/>
+      <point x="185" y="414" type="line"/>
+      <point x="185" y="264" type="line"/>
+      <point x="540" y="264" type="line"/>
     </contour>
     <contour>
-      <point x="585" y="10" type="move" name="ogonek"/>
+      <point x="324" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="334" y="0" type="move" name="bottom"/>
+      <point x="575" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="334" y="670" type="move" name="top"/>
+      <point x="324" y="670" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -34,11 +34,13 @@
       <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
       <string>==L</string>
       <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==L+20</string>
+      <string>==L+10</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=I</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=I-30</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

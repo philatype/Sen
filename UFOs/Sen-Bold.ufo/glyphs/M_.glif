@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="1">
-  <advance width="884"/>
+  <advance width="864"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="728" y="680" type="line"/>
-      <point x="442" y="390" type="line"/>
-      <point x="156" y="680" type="line"/>
-      <point x="90" y="680" type="line"/>
-      <point x="90" y="0" type="line"/>
-      <point x="277" y="0" type="line"/>
-      <point x="277" y="330" type="line"/>
-      <point x="414" y="175" type="line"/>
-      <point x="470" y="175" type="line"/>
-      <point x="607" y="330" type="line"/>
-      <point x="607" y="0" type="line"/>
-      <point x="794" y="0" type="line"/>
-      <point x="794" y="680" type="line"/>
+      <point x="784" y="680" type="line"/>
+      <point x="718" y="680" type="line"/>
+      <point x="432" y="390" type="line"/>
+      <point x="146" y="680" type="line"/>
+      <point x="80" y="680" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="267" y="0" type="line"/>
+      <point x="267" y="330" type="line"/>
+      <point x="404" y="175" type="line"/>
+      <point x="460" y="175" type="line"/>
+      <point x="597" y="330" type="line"/>
+      <point x="597" y="0" type="line"/>
+      <point x="784" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,6 +25,8 @@
       <string>=L</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=|L</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

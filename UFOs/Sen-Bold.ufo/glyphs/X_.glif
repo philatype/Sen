@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="X" format="1">
-  <advance width="726"/>
+  <advance width="736"/>
   <unicode hex="0058"/>
   <outline>
     <contour>
-      <point x="486" y="670" type="line"/>
-      <point x="373" y="467" type="line"/>
-      <point x="240" y="670" type="line"/>
-      <point x="10" y="670" type="line"/>
-      <point x="245" y="331" type="line"/>
-      <point x="10" y="0" type="line"/>
-      <point x="240" y="0" type="line"/>
-      <point x="363" y="200" type="line"/>
-      <point x="486" y="0" type="line"/>
-      <point x="716" y="0" type="line"/>
-      <point x="491" y="346" type="line"/>
-      <point x="716" y="670" type="line"/>
+      <point x="721" y="670" type="line"/>
+      <point x="491" y="670" type="line"/>
+      <point x="378" y="467" type="line"/>
+      <point x="245" y="670" type="line"/>
+      <point x="15" y="670" type="line"/>
+      <point x="250" y="331" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="245" y="0" type="line"/>
+      <point x="368" y="200" type="line"/>
+      <point x="491" y="0" type="line"/>
+      <point x="721" y="0" type="line"/>
+      <point x="496" y="346" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,6 +24,8 @@
       <string>=V</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=V</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

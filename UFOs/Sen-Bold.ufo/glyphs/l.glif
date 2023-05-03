@@ -4,16 +4,16 @@
   <unicode hex="006C"/>
   <outline>
     <contour>
+      <point x="242" y="720" type="line"/>
       <point x="70" y="720" type="line"/>
       <point x="70" y="0" type="line"/>
       <point x="242" y="0" type="line"/>
-      <point x="242" y="720" type="line"/>
-    </contour>
-    <contour>
-      <point x="207" y="720" type="move" name="top"/>
     </contour>
     <contour>
       <point x="156" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="207" y="720" type="move" name="top"/>
     </contour>
     <contour>
       <point x="272" y="510" type="move" name="topright"/>
@@ -29,6 +29,8 @@
       <string>=n</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=|n</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

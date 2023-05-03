@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="1">
-  <advance width="757"/>
+  <advance width="710"/>
   <unicode hex="004B"/>
   <outline>
     <contour>
-      <point x="482" y="670" type="line"/>
-      <point x="139" y="258" type="line"/>
-      <point x="258" y="161" type="line"/>
-      <point x="707" y="670" type="line"/>
+      <point x="682" y="670" type="line"/>
+      <point x="467" y="670" type="line"/>
+      <point x="129" y="268" type="line"/>
+      <point x="248" y="181" type="line"/>
     </contour>
     <contour>
-      <point x="90" y="670" type="line"/>
-      <point x="90" y="0" type="line"/>
-      <point x="277" y="0" type="line"/>
-      <point x="277" y="670" type="line"/>
+      <point x="267" y="670" type="line"/>
+      <point x="80" y="670" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="267" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="308" y="299" type="line"/>
-      <point x="499" y="0" type="line"/>
-      <point x="737" y="0" type="line"/>
-      <point x="456" y="408" type="line"/>
+      <point x="377" y="429" type="line"/>
+      <point x="231" y="330" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="695" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="389" y="670" type="move" name="top"/>
+      <point x="379" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="389" y="0" type="move" name="bottom"/>
+      <point x="379" y="670" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -33,11 +33,13 @@
       <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
       <string>==L</string>
       <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==L-40</string>
+      <string>==L-45</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=I</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=L</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

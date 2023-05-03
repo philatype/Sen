@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="649"/>
+  <advance width="639"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
+      <point x="569" y="670" type="line"/>
       <point x="110" y="670" type="line"/>
       <point x="110" y="0" type="line"/>
       <point x="569" y="0" type="line"/>
@@ -11,19 +12,18 @@
       <point x="200" y="85" type="line"/>
       <point x="200" y="585" type="line"/>
       <point x="569" y="585" type="line"/>
-      <point x="569" y="670" type="line"/>
     </contour>
     <contour>
+      <point x="526" y="386" type="line"/>
       <point x="167" y="386" type="line"/>
       <point x="167" y="301" type="line"/>
       <point x="526" y="301" type="line"/>
-      <point x="526" y="386" type="line"/>
-    </contour>
-    <contour>
-      <point x="574" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
       <point x="320" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="574" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
       <point x="340" y="670" type="move" name="top"/>
@@ -34,11 +34,13 @@
       <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
       <string>==L</string>
       <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==|L-30</string>
+      <string>==|L-40</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=I</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=I-30</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

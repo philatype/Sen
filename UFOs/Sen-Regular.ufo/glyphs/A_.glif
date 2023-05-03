@@ -4,19 +4,19 @@
   <unicode hex="0041"/>
   <outline>
     <contour>
+      <point x="368" y="670" type="line"/>
       <point x="323" y="670" type="line"/>
       <point x="10" y="0" type="line"/>
       <point x="118" y="0" type="line"/>
       <point x="347" y="518" type="line"/>
       <point x="573" y="0" type="line"/>
       <point x="681" y="0" type="line"/>
-      <point x="368" y="670" type="line"/>
     </contour>
     <contour>
+      <point x="538" y="245" type="line"/>
       <point x="167" y="245" type="line"/>
       <point x="167" y="160" type="line"/>
       <point x="538" y="160" type="line"/>
-      <point x="538" y="245" type="line"/>
     </contour>
     <contour>
       <point x="667" y="10" type="move" name="ogonek"/>
@@ -31,6 +31,8 @@
       <string>=V</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=V</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>
