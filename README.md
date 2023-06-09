@@ -1,3 +1,10 @@
+# Sen
+
+Sen is a geometrically constructed sans-serif with a sensible, friendly look. Think of it as a more neutral version of geometric classics such as Avenir or Futura with a humanist touch. It’s unassuming, unique, and most importantly, easy to read.
+
+![Sample of Sen.](documentation/Image1.png)
+![Sample of Sen.](documentation/Image2.png)
+
 FONTLOG for the Sen fonts
 
 This file provides detailed information on the Sen Font Software.
